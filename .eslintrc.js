@@ -16,7 +16,7 @@ module.exports = {
     "sourceType": "module"
   },
   "plugins": ["react"],
-  "rules": {
-    "semi": 2
+  rules: {
+    semi: 2
   }
 };
