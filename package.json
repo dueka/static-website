@@ -1,0 +1,26 @@
+{
+  "name": "static-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "echo building",
+    "devserver": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dueka/static-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dueka/static-website/issues"
+  },
+  "homepage": "https://github.com/dueka/static-website#readme",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-react": "^7.17.0",
+    "live-server": "^1.2.1"
+  }
+}
